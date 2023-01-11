@@ -30,12 +30,6 @@ You can install these libraries using pip:
 pip install pandas seaborn
 ```
 
-To run the code in this project, simply execute the following command:
-
-```
-python analyze_online_retail.ipynb
-```
-This will run the analyze_online_retail.py script, which will perform the data anomaly and business insight analysis on the "Online Retail" dataset.
 
 Results
 The results of the analysis will be printed to the console and, if seaborn is installed, visualized in a series of plots. The output will include any identified data anomalies, as well as insights into customer behavior and product performance.
