@@ -35,3 +35,5 @@ Results
 The results of the analysis will be printed to the console and, if seaborn is installed, visualized in a series of plots. The output will include any identified data anomalies, as well as insights into customer behavior and product performance.
 
 I hope you find this project useful and informative! If you have any questions or suggestions, please don't hesitate to reach out.
+
+By uncovering data anomalies and gaining insights into customer behavior and product performance in the "Online Retail" dataset, retailers should target their marketing and product offerings on higher average unit price months like October to drive sales and revenue.
